@@ -32,7 +32,7 @@ V0.0.1 - Unit-9-Project-Management was updated *File(s) created - 'readme.md'
 
 v0.0.2 - reame.md was updated *Section added - 'If you are viewing this because:','To donate:','updates','notes','Terms & Conditions!'
 
-v0.0.3 - Unit-9-Project-Management was updated *File(s) uploaded - '',''
+v0.0.3 - Unit-9-Project-Management was updated *File(s) uploaded - 'Unit 9 Assignment 1.docx','Unit 9 - Evaluation_Reflective Diary.docx','Unit 9 - Feasibility Study.docx','Unit 9 - LAB - Requirements Table .docx','Unit 9 Gantt Chart - Lucas Miltiadou.xlsx','Unit 9 - LAC - Risk Assessment .docx','Unit 9 Analysis.docx','Unit 9 Brief Analysis.docx'
 
 GlobalUpdate - reame.md was updated *Section updated - 'Terms & Conditions!'
 
